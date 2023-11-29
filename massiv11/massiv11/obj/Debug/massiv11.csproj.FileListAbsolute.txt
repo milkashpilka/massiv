@@ -1,0 +1,7 @@
+C:\Users\Милена\OneDrive\Рабочий стол\ррр\massiv11\massiv11\bin\Debug\massiv11.exe.config
+C:\Users\Милена\OneDrive\Рабочий стол\ррр\massiv11\massiv11\bin\Debug\massiv11.exe
+C:\Users\Милена\OneDrive\Рабочий стол\ррр\massiv11\massiv11\bin\Debug\massiv11.pdb
+C:\Users\Милена\OneDrive\Рабочий стол\ррр\massiv11\massiv11\obj\Debug\massiv11.csproj.AssemblyReference.cache
+C:\Users\Милена\OneDrive\Рабочий стол\ррр\massiv11\massiv11\obj\Debug\massiv11.csproj.CoreCompileInputs.cache
+C:\Users\Милена\OneDrive\Рабочий стол\ррр\massiv11\massiv11\obj\Debug\massiv11.exe
+C:\Users\Милена\OneDrive\Рабочий стол\ррр\massiv11\massiv11\obj\Debug\massiv11.pdb
